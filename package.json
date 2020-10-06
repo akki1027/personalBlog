@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@rails/actiontext": "^6.0.3-3",
+    "@rails/webpacker": "4.3.0",
+    "trix": "^1.2.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  },
+  {
+    "license": "UNLICENSED"
+  }
+}
